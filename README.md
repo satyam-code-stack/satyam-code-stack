@@ -54,6 +54,6 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :  Currently in learning stage</h3>
+<h3 align="left">🔥   My Stats :  Focusing & currently in learning stage</h3>
 
 ###
